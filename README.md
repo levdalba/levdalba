@@ -29,8 +29,7 @@ I’m a **AI & Data Engineer** and **Full-Stack Developer** with a strong passio
 ---
 
 ## 📊 GitHub Stats
-![](https://github-readme-stats-liart-rho-37.vercel.app/api?username=levdalba&count_private=true&theme=dark&hide_border=false&include_all_commits=true)
-![](https://github-readme-stats-liart-rho-37.vercel.app/api/streak-stats?username=levdalba&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api?username=levdalba&theme=dark&hide_border=false&include_all_commits=true&count_private=true) ![](https://github-readme-streak-stats.herokuapp.com/?user=levdalba&theme=dark&hide_border=false)  
 ![](https://github-readme-stats-liart-rho-37.vercel.app/api/top-langs?username=levdalba&count_private=true&layout=compact&theme=dark)
 
 
