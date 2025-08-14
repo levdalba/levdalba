@@ -30,7 +30,7 @@ I’m a **AI & Data Engineer** and **Full-Stack Developer** with a strong passio
 
 ## 📊 GitHub Stats
 ![](https://github-readme-streak-stats.herokuapp.com/?user=levdalba&theme=dark&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=levdalba&theme=dark&hide_border=false&layout=compact)
+![](https://<your-vercel-project>.vercel.app/api/top-langs?username=levdalba&count_private=true&layout=compact&theme=dark)
 
 ---
 
