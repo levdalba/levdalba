@@ -1,4 +1,7 @@
-<a href="" target="_blank" rel="noreferrer"><img src="levdalbagithub.png" alt="git" width="100%" height="auto"/></a>
+[<img src="https://raw.githubusercontent.com/levdalba/levdalba/master/intro.gif" 
+alt="👋 Hi there! I'm Lev Dalba" 
+title="👋 Hi there! I'm Lev Dalba"/>](https://levdalba.github.io/)
+
 
 # 👋 Hi, I’m Levan Dalbashvili
 I’m a **AI & Data Engineer** and **Full-Stack Developer** with a strong passion for **Machine Learning & Artificial Intelligence** and problem-solving. My background blends **Software Engineering**, **Machine Learning**, and **Data Engineering**, with hands-on experience building production-ready applications and AI systems.
