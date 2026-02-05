@@ -30,9 +30,9 @@ I’m a **AI & Data Engineer** and **Full-Stack Developer** with a strong passio
 
 ## 📊 GitHub Overview
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levdalba&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=levdalba&theme=dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=levdalba&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=levdalba&theme=dark)
 
 
 
